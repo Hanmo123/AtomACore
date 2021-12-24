@@ -1,0 +1,13 @@
+{
+    "name": "atomstudio/atomacore",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Atomstudio\\Atomacore\\": "src/"
+        },
+        "files": [
+            "env.php"
+        ]
+    },
+    "require": {}
+}
